@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main style={{ fontFamily: "sans-serif", maxWidth: 720, margin: "60px auto", padding: "0 20px" }}>
-      <h1 style={{ color: "#4a5d3a" }}>Ridgeline Trail Co.</h1>
+      <h1 style={{ color: "#4a5d3a" }}>Preview retest 1015</h1>
       <p><em>Small-batch hiking gear, made for weekend backpackers.</em></p>
 
       <h2>Featured Gear</h2>
